@@ -1,0 +1,7 @@
+{
+  "name": "DisasterWatch Liquid Glass",
+  "description": "A high-fidelity natural disaster tracking application featuring a liquid glass UI, admin controls for reporting, and AI-powered safety recommendations.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
